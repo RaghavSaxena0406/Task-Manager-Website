@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Raghav Folder\\Coding\\MS Fullstack Assessment\\Backend\\taskmanagementapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6732E8E3-E34F-47E7-90AA-344FA949A902}|taskmanagementapi.csproj|d:\\raghav folder\\coding\\ms fullstack assessment\\backend\\taskmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6732E8E3-E34F-47E7-90AA-344FA949A902}|taskmanagementapi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Raghav Folder\\Coding\\MS Fullstack Assessment\\Backend\\taskmanagementapi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Raghav Folder\\Coding\\MS Fullstack Assessment\\Backend\\taskmanagementapi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:30:03.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
